@@ -1,0 +1,61 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width:320px;
+    height:240px;
+    border: 3px solid var(--dark);
+    border-radius: 4px;
+    background: var(--light);
+    overflow: hidden;
+}
+
+.innerContainer{
+    display: flex;
+    height:240px;
+}
+
+.left{
+    flex: 1;
+}
+
+.left p{
+    padding: 0 5px;
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.right{
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://westernnews.media.clients.ellingtoncms.com/img/photos/2020/12/29/OneRepublic_t715.jpg?529764a1de2bdd0f74a9fb4f856b01a9d617b3e9");
+    background-size: cover;
+    background-position:center;
+}
+
+.right img{
+    width:200px;
+}
+
+.active{
+    background-color:#017cbf;
+    color: var(--light);
+}
+
+.selectedOption {
+    background-image:linear-gradient(to top, #0168a3, #09a7e0);
+    color: var(--light);
+}
+
+.single{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.single p:first-child{
+    margin: 0 5px;
+}

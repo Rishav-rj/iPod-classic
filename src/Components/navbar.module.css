@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    height:25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.heading p{
+    font-weight: 500;
+    font-size: 0.8rem;
+    margin-left: 5px;
+}
+
+.time{
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.battery i{
+    font-size: 1.2rem;
+    color:#4bb050;
+    margin-right: 3px;
+}
