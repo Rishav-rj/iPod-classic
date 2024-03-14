@@ -21,7 +21,7 @@ To run the iPod Classic emulator locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-git clone <repository-url>
+git clone https://github.com/Rishav-rj/iPod-classic.git
 ```
 
 2. Navigate to the project directory:
@@ -32,19 +32,17 @@ cd ipod-classic
 3. Install dependencies using npm or yarn:
 ```
 npm install
-
 ```
 
 4. Start the development server:
 ```
 npm start
-
 ```
 
 5. Open your web browser and visit `http://localhost:3000` to access the emulator.
 
 ## Usage
-- **Navigation:** Rotate the wheel clockwise or counterclockwise to navigate through the menu options.
+- **Navigation:** Hold mouse left click & rotate the wheel clockwise or counterclockwise to navigate through the menu options.
 - **Selection:** Press the center button to select a menu option or song.
 - **Playback Control:** Use the play/pause, next, and previous buttons to control music playback.
 - **Menu Navigation:** Press the menu button to go back to the previous menu level.
