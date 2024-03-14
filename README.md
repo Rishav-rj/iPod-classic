@@ -49,6 +49,6 @@ npm start
 
 ## Screenshots
 
-![iPod Classic Emulator](screenshots/home.png "iPod Classic Emulator")
-![iPod Classic Emulator](screenshots/music.png "iPod Classic Emulator")
-![iPod Classic Emulator](screenshots/song-player.png "iPod Classic Emulator")
+![iPod Classic Emulator](./Screenshots/home.png "iPod Classic Emulator")
+![iPod Classic Emulator](./Screenshots/music.png "iPod Classic Emulator")
+![iPod Classic Emulator](./Screenshots/song-player.png "iPod Classic Emulator")
