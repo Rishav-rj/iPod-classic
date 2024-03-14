@@ -46,3 +46,9 @@ npm start
 - **Selection:** Press the center button to select a menu option or song.
 - **Playback Control:** Use the play/pause, next, and previous buttons to control music playback.
 - **Menu Navigation:** Press the menu button to go back to the previous menu level.
+
+## Screenshots
+
+![iPod Classic Emulator](screenshots/home.png "iPod Classic Emulator")
+![iPod Classic Emulator](screenshots/music.png "iPod Classic Emulator")
+![iPod Classic Emulator](screenshots/song-player.png "iPod Classic Emulator")
